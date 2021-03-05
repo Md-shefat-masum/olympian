@@ -1,0 +1,18 @@
+1 > configure .env 
+2 > database check
+
+1 > import sql or php artisan migrate:fresh --seed
+
+
+>>>>>> Good to follow 
+1. php artisan config:cache
+2. php artisan cache:clear 
+3. composer dump-autoload
+4. php artisan migrate:fresh --seed
+
+
+email: tanvihussain5538@gmail.com
+pass: 12345678
+(every pass is the same)
+
+Look for olympian.sql (if you need)

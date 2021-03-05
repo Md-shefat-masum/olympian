@@ -1,0 +1,7 @@
+.has-error .invalid-feedback {
+    display: block;
+}
+.invalid-feedback {
+    display: block;
+    font-size: 14px;
+}
